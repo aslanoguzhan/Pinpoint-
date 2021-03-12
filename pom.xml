@@ -120,7 +120,7 @@
 
         <asm.version>8.0.1</asm.version>
         <!-- 0.13.0 required Java 1.8 https://github.com/apache/thrift/pull/1657 -->
-        <thrift.version>0.12.0</thrift.version>
+        <thrift.version>0.14.0</thrift.version>
         <ehcache.version>2.10.6</ehcache.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <netty4.version>4.1.51.Final</netty4.version>
